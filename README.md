@@ -89,7 +89,7 @@ verify if the above package installed using below command.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Abhi19980/Plot-and-Computing-dataset-
    ```
 2. Navigate to the root of project and run below mentioned command in cmd line
 3. pip install django
