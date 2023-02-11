@@ -156,6 +156,6 @@ MEDIA_ROOT = (
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 MAX_RESUME_UPLOAD_SIZE=5000000
-PITCHER_PROJECT_STORAGE = "C:/Users/abhis/Downloads/companytask1/Plot-and-Computing-dataset-/filestorage"
+PITCHER_PROJECT_STORAGE = os.path.realpath(os.path.join(os.path.dirname(__file__), "..", "filestorage"))
 PITCHER_PROJECT_STORAGE_URL = "storage/projectlink_storage/"
 ALLOWED_RESUME_TYPES=['.csv']
