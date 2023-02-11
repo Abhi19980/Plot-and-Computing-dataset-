@@ -47,6 +47,9 @@
 
 This is a project to upload a 'CSV' file of dataset and apply Computation opertation like 'sum', 'min', 'max' and also we can plot a graph out of 2 columns from the given dataset file.
 
+Here is a video demonstration of the working project
+https://www.loom.com/share/8e40989611704d4da6b073568d9f4d25
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
